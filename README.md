@@ -1,2 +1,3 @@
-# responsi2-juniorproject
-Responsi 2 Junior Project
+# Responsi 2 Junior Project
+- Nama: Saddan Syah Akbar
+- NIM: 20/460566/TK/51155
